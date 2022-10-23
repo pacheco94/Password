@@ -1,0 +1,5 @@
+build\contracts
+Migration.sol
+node_modules/
+package-look.json
+package.json
